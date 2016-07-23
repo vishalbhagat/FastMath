@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/layout/activity_select.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/layout/activity_select.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/layout/activity_end.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/layout/activity_end.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/layout/help_layout.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/layout/help_layout.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/layout/activity_game.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/layout/activity_game.xml"
+    }
+]

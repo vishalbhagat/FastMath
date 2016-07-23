@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FastMath</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sound">Sound</string>
+    <string name="fastmath">Fast Math</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_end">EndActivity</string>
+	<string name="ad_unit_id">ca-app-pub-4925331582736712/2889805789</string>
+    
+    
+   
+</resources>

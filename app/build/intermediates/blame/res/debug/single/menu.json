@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/menu/end.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/menu/end.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/menu/game.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/menu/game.xml"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/menu/select.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/menu/select.xml"
+    }
+]

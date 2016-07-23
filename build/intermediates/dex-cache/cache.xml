@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vishaljasrotia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_321d7ff60d2ddabb39bdaa78a1750fb388807a6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="32d789c47de105c71b06337e6f215a04c0859bc9">
+        <dex dex="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e374c75eeabc7d876518c9e8722f009a8dcbe401/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-20.0.0_2ac5754576ffe74665de49716d4ded842f1d65b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2957347102a7fa6498e9befbc35f01385a1e271b">
+        <dex dex="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_461811fcb0624662763d2392dd26ba1592c66932/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_11c60f1f7058a9bfc31eeed6fd79fd13a4453a6f/classes.dex" />
+    </item>
+
+</items>

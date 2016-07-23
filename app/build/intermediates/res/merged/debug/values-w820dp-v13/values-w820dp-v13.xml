@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="eqView">60sp</dimen>
+    <dimen name="margin">35sp</dimen>
+    <dimen name="startbtnhith">250dp</dimen>
+    <dimen name="startbtnwith">250dp</dimen>
+    <dimen name="textView">65sp</dimen>
+</resources>

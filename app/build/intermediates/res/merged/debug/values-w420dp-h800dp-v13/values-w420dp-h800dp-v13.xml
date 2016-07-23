@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_marginl">16dp</dimen>
+    <dimen name="activity_horizontal_marginr">16dp</dimen>
+    <dimen name="activity_vertical_marginb">16dp</dimen>
+    <dimen name="activity_vertical_margint">16dp</dimen>
+    <dimen name="btnTextSize">25sp</dimen>
+    <dimen name="eqView">20sp</dimen>
+    <dimen name="margin">6sp</dimen>
+    <dimen name="scoreTextSize">30sp</dimen>
+    <dimen name="startbtnhith">35dp</dimen>
+    <dimen name="startbtnwith">150dp</dimen>
+    <dimen name="textView">17sp</dimen>
+</resources>

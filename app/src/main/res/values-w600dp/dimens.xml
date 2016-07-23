@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <dimen name="startbtnwith">200dp</dimen>
+      <dimen name="startbtnhith">95dp</dimen>
+       <dimen name="textView">35sp</dimen>
+     <dimen name="eqView">40sp</dimen>
+      <dimen name="margin">15sp</dimen>
+</resources>

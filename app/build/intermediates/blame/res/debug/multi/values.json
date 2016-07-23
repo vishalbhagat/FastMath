@@ -1,0 +1,456 @@
+[
+    {
+        "outputFile": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 57,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 55,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 37,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 343,
+                        "endColumn": 38,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 36,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 6,
+                        "startOffset": 384,
+                        "endColumn": 38,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 43,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 43,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 44,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 44,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 39,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 6,
+                        "startOffset": 301,
+                        "endColumn": 41,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 52,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 52,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 77,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 488,
+                        "endColumn": 74,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 45,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 46,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 46,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 52,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 39,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 58,
+                    "endOffset": 791
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 58,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 796,
+                    "endColumn": 60,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 60,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 64,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 64,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1537
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1542,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1711,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    }
+]

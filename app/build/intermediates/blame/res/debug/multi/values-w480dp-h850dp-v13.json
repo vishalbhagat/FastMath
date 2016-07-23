@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/values-w480dp-h850dp-v13/values-w480dp-h850dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values-w480dp-h850dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 146,
+                        "endColumn": 38,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 37,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values-w480dp-h850dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 37,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 43,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values-w480dp-h850dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 39,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/values-w480dp-h850dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 6,
+                        "startOffset": 104,
+                        "endColumn": 41,
+                        "endOffset": 139
+                    }
+                }
+            }
+        ]
+    }
+]

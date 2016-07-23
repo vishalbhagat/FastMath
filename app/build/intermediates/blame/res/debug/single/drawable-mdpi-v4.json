@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/welcomescreenbackground.png",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/welcomescreenbackground.png"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image.png",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/image.png"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alarm.png",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/alarm.png"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ab_solid_example.9.png",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/ab_solid_example.9.png"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/selectbtn.xml",
+        "source": "/Users/vishaljasrotia/AndroidStudioProjects/FastMath1/app/src/main/res/drawable-mdpi/selectbtn.xml"
+    }
+]
